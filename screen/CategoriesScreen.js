@@ -6,8 +6,11 @@ import {View,
         Button,
         TouchableOpacity,
         } from 'react-native';
+import { HeaderButtons, Item } from 'react-navigation-header-buttons';
+
 
 import { CATEGORIES } from '../data/dummy-data';
+import HeaderButton from '../components/HeaderButton';
 import CategoryGrideTile from '../components/CategoryGrideTile';
 
 const CategoriesScreen = props => {
@@ -35,8 +38,17 @@ const CategoriesScreen = props => {
     );
 };
 
-CategoriesScreen.navigationOptions = {
+CategoriesScreen.navigationOptions = (navData) => {
+    return {
     headerTitle: 'MEAL CATEGORIES',
+    headerLeft: (   <HeaderButtons HeaderButtonComponent={HeaderButton}>
+                    <Item   title="Menu" 
+                            iconName='ios-menu' 
+                            onPress={() => {
+                            navData.navigation.toggleDrawer(); // using toggledrawer open drawer close and close drawer open
+                    }} />
+                    </HeaderButtons>
+    )};
 };
 
 const styles = StyleSheet.create({

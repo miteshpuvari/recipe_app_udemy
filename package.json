@@ -32,7 +32,8 @@
     "react-navigation-material-bottom-tabs": "^2.3.4",
     "react-navigation-stack": "^2.10.3",
     "react-navigation-tabs": "^2.11.0",
-    "start": "^5.1.0"
+    "start": "^5.1.0",
+    "expo-constants": "~9.3.3"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"

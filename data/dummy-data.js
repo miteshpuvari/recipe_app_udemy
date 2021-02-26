@@ -32,6 +32,13 @@ export const MEALS = [
             'lasun',
             'Onions',
             'kan',
+            'potato'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -46,6 +53,12 @@ export const MEALS = [
             '1. Maggi',
             '2. Solt',
             '3. Tomatos'   
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -60,6 +73,12 @@ export const MEALS = [
             '1. Palak',
             '2. Paneer',
             '3. Oile'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -74,6 +93,12 @@ export const MEALS = [
             '1. jalebi material',
             '2. fafda material',
             '3. Oile'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -88,6 +113,12 @@ export const MEALS = [
             '1. water',
             '2. puri',
             '3. potatoes'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -102,6 +133,12 @@ export const MEALS = [
             '1. Tometos',
             '2. shimla mirch',
             '3. Oile'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -116,6 +153,12 @@ export const MEALS = [
             '1. Oile',
             '2. Powder',
             '3. Onion'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -130,6 +173,12 @@ export const MEALS = [
             '1. potatos',
             '2. onion',
             '3. raice'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -143,6 +192,12 @@ export const MEALS = [
         [
             '1. mango',
             '2. mixer',
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
     new Meal(
@@ -157,6 +212,12 @@ export const MEALS = [
             '1. Idli',
             '2. sambhar',
             '3. oile'
+        ],
+        [
+            'cutt brinjals potatos',
+            'prepar all ingridiants aadu lahsun',
+            'mix all this',
+            'put in matka',
         ]
     ),
 ];
