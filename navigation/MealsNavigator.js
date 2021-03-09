@@ -4,6 +4,7 @@ import { createBottomTabNavigator } from 'react-navigation-tabs';
 import { createStackNavigator} from 'react-navigation-stack';
 import { createDrawerNavigator } from 'react-navigation-drawer';
 import { createAppContainer} from "react-navigation";
+
 import CategoriesScreen from '../screen/CategoriesScreen';
 import CategoryMealsScreen from '../screen/CategoryMealsScreen';
 import MealDetailScreen from '../screen/MealDetailScreen';
